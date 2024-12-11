@@ -68,49 +68,55 @@
 
 # 源码合作
 
-![extending-a-theme](/xiaomage.jpg)
+![xiaomage](https://github.com/user-attachments/assets/1b696663-80a1-4a33-80d5-7b8dd0160767)
+
 
 # 界面展示
 
 # 平台运营端
 
-![extending-a-theme](/001.png)
-![extending-a-theme](/002.png)
-![extending-a-theme](/003.png)
-![extending-a-theme](/004.png)
-![extending-a-theme](/005.png)
-![extending-a-theme](/006.png)
-![extending-a-theme](/007.png)
-![extending-a-theme](/008.png)
-![extending-a-theme](/009.png)
-![extending-a-theme](/010.png)
-![extending-a-theme](/011.png)
-![extending-a-theme](/013.png)
-![extending-a-theme](/015.png)
-![extending-a-theme](/016.png)
-![extending-a-theme](/017.png)
-![extending-a-theme](/018.png)
-![extending-a-theme](/019.png)
+![001](https://github.com/user-attachments/assets/77a44528-dbab-4bcb-9794-791072430944)
+![002](https://github.com/user-attachments/assets/76c5fbba-d5c4-4da2-9f02-ada51cb6025b)
+![003](https://github.com/user-attachments/assets/edbb60b9-9af7-44b2-9718-cdfe99ea096f)
+![004](https://github.com/user-attachments/assets/5a28873d-ca0e-4ff3-92e5-22780743f052)
+![005](https://github.com/user-attachments/assets/df40db4b-3cae-44d1-8b4e-ba7cc22b5f34)
+![007](https://github.com/user-attachments/assets/a71f04a7-a64e-40ad-a6d7-ae0ef1393a6c)
+![009](https://github.com/user-attachments/assets/00d6654b-41f0-40be-8ba4-f025babca879)
+![013](https://github.com/user-attachments/assets/38b8b50f-2665-41cd-9ae9-8f7de715ef1e)
+![016](https://github.com/user-attachments/assets/2e4d86d8-4bf4-4181-b897-8c04d80a80b8)
+![017](https://github.com/user-attachments/assets/a6dd621b-12ab-4e45-95c0-7bc4863b1c49)
+![019](https://github.com/user-attachments/assets/999182ac-726e-4fdc-af6d-4476fdf0a1c0)
+
 
 # 企业端
 
-![extending-a-theme](/01.png)
-![extending-a-theme](/02.png)
-![extending-a-theme](/03.png)
-![extending-a-theme](/04.png)
-![extending-a-theme](/05.png)
-![extending-a-theme](/06.png)
-![extending-a-theme](/07.png)
+![01](https://github.com/user-attachments/assets/9ce9c4bf-d6da-4227-b098-31a1387b2f63)
+![02](https://github.com/user-attachments/assets/402d71fa-ed23-4f91-8161-52577a96ed43)
+![03](https://github.com/user-attachments/assets/59267bab-92eb-4241-b3d0-e83a496aa7b1)
+![04](https://github.com/user-attachments/assets/42c10ebd-0b5e-4da0-8dd1-0501a877830b)
+![05](https://github.com/user-attachments/assets/7acb14d8-b0f6-4818-9272-152ec4d7c8c2)
+![06](https://github.com/user-attachments/assets/19d379e4-33c1-49ba-a839-118eeb66db7a)
+
+![07](https://github.com/user-attachments/assets/7cc29354-fb09-4db3-ab69-ea6fc48d0100)
+
+
 
 # 用户端（劳动者端）
 
-![extending-a-theme](/0001.png)
-![extending-a-theme](/0002.png)
-![extending-a-theme](/0003.png)
-![extending-a-theme](/0004.png)
-![extending-a-theme](/0005.png)
-![extending-a-theme](/0006.png)
-![extending-a-theme](/0007.png)
+![0001](https://github.com/user-attachments/assets/baf60970-fa25-4e6c-888a-ea403ae7aa9e)
+![0002](https://github.com/user-attachments/assets/2b421ac0-070a-4aa2-a1ba-e2317e252d34)
+![0003](https://github.com/user-attachments/assets/944f3535-7cf6-472d-8e59-6c08d5be44b2)
+![0004](https://github.com/user-attachments/assets/e6055580-02de-4abf-87ce-4db1e26e8ac8)
+![0005](https://github.com/user-attachments/assets/9dfa4469-9c36-4c79-97e6-6b66001bacf0)
+![0006](https://github.com/user-attachments/assets/d4d582cc-6ef3-4d7d-bb89-a1f4f4dc47df)
+![0007](https://github.com/user-attachments/assets/6feb85dc-5db9-448f-9526-e50c90423bff)
+
+
+
+
+
+
+
 
 
 
