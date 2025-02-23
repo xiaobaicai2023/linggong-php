@@ -68,7 +68,8 @@
 
 # 源码合作
 
-![xiaomage](https://github.com/user-attachments/assets/1b696663-80a1-4a33-80d5-7b8dd0160767)
+![wx](https://github.com/user-attachments/assets/53259e87-4c72-45e6-93db-a76d97bf36e7)
+
 
 
 # 界面展示
